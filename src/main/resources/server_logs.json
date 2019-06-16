@@ -1,0 +1,18 @@
+[
+  {"id":"scsmbstgra", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495212},
+  {"id":"scsmbstgrb", "state":"STARTED", "timestamp":1491377495213},
+  {"id":"scsmbstgrc", "state":"FINISHED", "timestamp":1491377495218},
+  {"id":"scsmbstgra", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217},
+  {"id":"scsmbstgrc", "state":"STARTED", "timestamp":1491377495210},
+  {"id":"scsmbstgrb", "state":"FINISHED", "timestamp":1491377495216},
+  {"id":"zerodelay", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217},
+  {"id":"zerodelay", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217},
+  {"id":"sevendelay", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495210},
+  {"id":"sevendelay", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217},
+
+  {"id":"onedelay", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495210},
+  {"id":"onedelay", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495211},
+
+  {"id":"hundreddelay", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495210},
+  {"id":"hundreddelay", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495310}
+]
